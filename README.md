@@ -6,7 +6,7 @@
 
 See ``CQD\README.md`` and ``QTO\README.md`` for details.
 
-## 2. QIPP + End2End KGQE Model
+## 2. QIPP + End2End KGQE Models
 **KGQE Models**
 - [x] [GQE](https://arxiv.org/abs/1806.01445)
 - [x] [Q2B](https://arxiv.org/abs/2002.05969)
