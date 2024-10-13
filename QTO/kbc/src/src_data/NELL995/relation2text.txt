@@ -1,0 +1,400 @@
+concept:teamplaysagainstteam	team plays against team
+concept:teamplaysagainstteam_reverse	inverse team plays against team
+concept:latitudelongitude	latitude longitude
+concept:latitudelongitude_reverse	inverse latitude longitude
+concept:musicartistgenre	music artist genre
+concept:musicartistgenre_reverse	inverse music artist genre
+concept:mammalsuchasmammal	mammal such as mammal
+concept:mammalsuchasmammal_reverse	inverse mammal such as mammal
+concept:worksfor	works for
+concept:worksfor_reverse	inverse works for
+concept:organizationheadquarteredincity	organization headquartered in city
+concept:organizationheadquarteredincity_reverse	inverse organization headquartered in city
+concept:agriculturalproductcookedwithagriculturalproduct	agricultural product cooked with agricultural product
+concept:agriculturalproductcookedwithagriculturalproduct_reverse	inverse agricultural product cooked with agricultural product
+concept:itemfoundinroom	item found in room
+concept:itemfoundinroom_reverse	inverse item found in room
+concept:atdate	at date
+concept:atdate_reverse	inverse at date
+concept:chemicalistypeofchemical	chemical is type of chemical
+concept:chemicalistypeofchemical_reverse	inverse chemical is type of chemical
+concept:topmemberoforganization	top member of organization
+concept:topmemberoforganization_reverse	inverse top member of organization
+concept:drugpossiblytreatsphysiologicalcondition	drug possibly treats physiological condition
+concept:drugpossiblytreatsphysiologicalcondition_reverse	inverse drug possibly treats physiological condition
+concept:agentparticipatedinevent	agent participated in event
+concept:agentparticipatedinevent_reverse	inverse agent participated in event
+concept:persondiedincountry	person died in country
+concept:persondiedincountry_reverse	inverse person died in country
+concept:proxyfor	proxy for
+concept:proxyfor_reverse	inverse proxy for
+concept:arthropodandotherarthropod	arthropod and other arthropod
+concept:arthropodandotherarthropod_reverse	inverse arthropod and other arthropod
+concept:bodypartcontainsbodypart	body part contains body part
+concept:bodypartcontainsbodypart_reverse	inverse body part contains body part
+concept:bookwriter	book writer
+concept:bookwriter_reverse	inverse book writer
+concept:agentactsinlocation	agent acts in location
+concept:agentactsinlocation_reverse	inverse agent acts in location
+concept:animalpreyson	animal prey son
+concept:animalpreyson_reverse	inverse animal prey son
+concept:animalistypeofanimal	animal is type of animal
+concept:animalistypeofanimal_reverse	inverse animal is type of animal
+concept:automakerproducesmodel	automaker produces model
+concept:automakerproducesmodel_reverse	inverse automaker produces model
+concept:subpartof	sub part of
+concept:subpartof_reverse	inverse sub part of
+concept:stadiumlocatedincity	stadium located in city
+concept:stadiumlocatedincity_reverse	inverse stadium located in city
+concept:personhasjobposition	person has job position
+concept:personhasjobposition_reverse	inverse person has job position
+concept:drugworkedonbyagent	drug worked on by agent
+concept:drugworkedonbyagent_reverse	inverse drug worked on by agent
+concept:hasofficeincity	has office in city
+concept:hasofficeincity_reverse	inverse has office in city
+concept:athleteflyouttosportsteamposition	athlete fly out to sports team position
+concept:athleteflyouttosportsteamposition_reverse	inverse athlete fly out to sports team position
+concept:emotionassociatedwithdisease	emotion associated with disease
+concept:emotionassociatedwithdisease_reverse	inverse emotion associated with disease
+concept:organizationheadquarteredincountry	organization headquartered in country
+concept:organizationheadquarteredincountry_reverse	inverse organization headquartered in country
+concept:agriculturalproductcutintogeometricshape	agricultural product cut into geometric shape
+concept:agriculturalproductcutintogeometricshape_reverse	inverse agricultural product cut into geometric shape
+concept:athleteplayssport	athlete plays sport
+concept:athleteplayssport_reverse	inverse athlete plays sport
+concept:furniturefoundinroom	furniture found in room
+concept:furniturefoundinroom_reverse	inverse furniture found in room
+concept:agentcontributedtocreativework	agent contributed to creative work
+concept:agentcontributedtocreativework_reverse	inverse agent contributed to creative work
+concept:agentcreated	agent created
+concept:agentcreated_reverse	inverse agent created
+concept:mutualproxyfor	mutual proxy for
+concept:mutualproxyfor_reverse	inverse mutual proxy for
+concept:sportusesequipment	sport uses equipment
+concept:sportusesequipment_reverse	inverse sport uses equipment
+concept:visualartistartform	visual artist art form
+concept:visualartistartform_reverse	inverse visual artist art form
+concept:languageofcountry	language of country
+concept:languageofcountry_reverse	inverse language of country
+concept:politicianusendorsedbypoliticianus	politician us endorsed by politician us
+concept:politicianusendorsedbypoliticianus_reverse	inverse politician us endorsed by politician us
+concept:personborninlocation	person born in location
+concept:personborninlocation_reverse	inverse person born in location
+concept:organizationdissolvedatdate	organization dissolved at date
+concept:organizationdissolvedatdate_reverse	inverse organization dissolved at date
+concept:athleteplaysforteam	athlete plays for team
+concept:athleteplaysforteam_reverse	inverse athlete plays for team
+concept:athletebeatathlete	athlete beat athlete
+concept:athletebeatathlete_reverse	inverse athlete beat athlete
+concept:athletehomestadium	athlete home stadium
+concept:athletehomestadium_reverse	inverse athlete home stadium
+concept:personalsoknownas	person also known as
+concept:personalsoknownas_reverse	inverse person also known as
+concept:subpartoforganization	sub part of organization
+concept:subpartoforganization_reverse	inverse sub part of organization
+concept:producesproduct	produces product
+concept:producesproduct_reverse	inverse produces product
+concept:personbelongstoorganization	person belongs to organization
+concept:personbelongstoorganization_reverse	inverse person belongs to organization
+concept:bacteriaisthecausativeagentofphysiologicalcondition	bacteria is the causative agent of physiological condition
+concept:bacteriaisthecausativeagentofphysiologicalcondition_reverse	inverse bacteria is the causative agent of physiological condition
+concept:agentcollaborateswithagent	agent collaborates with agent
+concept:agentcollaborateswithagent_reverse	inverse agent collaborates with agent
+concept:companyeconomicsector	company economic sector
+concept:companyeconomicsector_reverse	inverse company economic sector
+concept:televisionstationaffiliatedwith	television station affiliated with
+concept:televisionstationaffiliatedwith_reverse	inverse television station affiliated with
+concept:athleteplaysinleague	athlete plays in league
+concept:athleteplaysinleague_reverse	inverse athlete plays in league
+concept:countryalsoknownas	country also known as
+concept:countryalsoknownas_reverse	inverse country also known as
+concept:synonymfor	synonym for
+concept:synonymfor_reverse	inverse synonym for
+concept:weaponssuchasweapons	weapons such as weapons
+concept:weaponssuchasweapons_reverse	inverse weapons such as weapons
+concept:organizationhiredperson	organization hired person
+concept:organizationhiredperson_reverse	inverse organization hired person
+concept:animaleatfood	animal eat food
+concept:animaleatfood_reverse	inverse animal eat food
+concept:directordirectedmovie	director directed movie
+concept:directordirectedmovie_reverse	inverse director directed movie
+concept:leaguestadiums	league stadiums
+concept:leaguestadiums_reverse	inverse league stadiums
+concept:agentcontrols	agent controls
+concept:agentcontrols_reverse	inverse agent controls
+concept:cityliesonriver	city lies on river
+concept:cityliesonriver_reverse	inverse city lies on river
+concept:persondiedatage	person died at age
+concept:persondiedatage_reverse	inverse person died at age
+concept:musicianinmusicartist	musician in music artist
+concept:musicianinmusicartist_reverse	inverse musician in music artist
+concept:animalsuchasinvertebrate	animal such as invertebrate
+concept:animalsuchasinvertebrate_reverse	inverse animal such as invertebrate
+concept:atlocation	at location
+concept:atlocation_reverse	inverse at location
+concept:academicprogramatuniversity	academic program at university
+concept:academicprogramatuniversity_reverse	inverse academic program at university
+concept:agriculturalproductincludingagriculturalproduct	agricultural product including agricultural product
+concept:agriculturalproductincludingagriculturalproduct_reverse	inverse agricultural product including agricultural product
+concept:organizationterminatedperson	organization terminated person
+concept:organizationterminatedperson_reverse	inverse organization terminated person
+concept:beveragemadefrombeverage	beverage made from beverage
+concept:beveragemadefrombeverage_reverse	inverse beverage made from beverage
+concept:agentcompeteswithagent	agent competes with agent
+concept:agentcompeteswithagent_reverse	inverse agent competes with agent
+concept:statelocatedincountry	state located in country
+concept:statelocatedincountry_reverse	inverse state located in country
+concept:hotelincity	hotel in city
+concept:hotelincity_reverse	inverse hotel in city
+concept:statehascapital	state has capital
+concept:statehascapital_reverse	inverse state has capital
+concept:animalsuchasinsect	animal such as insect
+concept:animalsuchasinsect_reverse	inverse animal such as insect
+concept:bankbankincountry	bank bank in country
+concept:bankbankincountry_reverse	inverse bank bank in country
+concept:bakedgoodservedwithbeverage	baked good served with beverage
+concept:bakedgoodservedwithbeverage_reverse	inverse baked good served with beverage
+concept:clothingmadefromplant	clothing made from plant
+concept:clothingmadefromplant_reverse	inverse clothing made from plant
+concept:haswife	has wife
+concept:haswife_reverse	inverse has wife
+concept:locationlocatedwithinlocation	location located within location
+concept:locationlocatedwithinlocation_reverse	inverse location located within location
+concept:parkincity	park in city
+concept:parkincity_reverse	inverse park in city
+concept:plantincludeplant	plant include plant
+concept:plantincludeplant_reverse	inverse plant include plant
+concept:teamwontrophy	team won trophy
+concept:teamwontrophy_reverse	inverse team won trophy
+concept:museumincity	museum in city
+concept:museumincity_reverse	inverse museum in city
+concept:statelocatedingeopoliticallocation	state located in geopolitical location
+concept:statelocatedingeopoliticallocation_reverse	inverse state located in geopolitical location
+concept:animaldevelopdisease	animal develop disease
+concept:animaldevelopdisease_reverse	inverse animal develop disease
+concept:musicgenressuchasmusicgenres	music genres such as music genres
+concept:musicgenressuchasmusicgenres_reverse	inverse music genres such as music genres
+concept:organizationheadquarteredinstateorprovince	organization headquartered in state or province
+concept:organizationheadquarteredinstateorprovince_reverse	inverse organization headquartered in state or province
+concept:citylocatedingeopoliticallocation	city located in geopolitical location
+concept:citylocatedingeopoliticallocation_reverse	inverse city located in geopolitical location
+concept:hasspouse	has spouse
+concept:hasspouse_reverse	inverse has spouse
+concept:teamplaysinleague	team plays in league
+concept:teamplaysinleague_reverse	inverse team plays in league
+concept:agentinvolvedwithitem	agent involved with item
+concept:agentinvolvedwithitem_reverse	inverse agent involved with item
+concept:clothingtogowithclothing	clothing togo with clothing
+concept:clothingtogowithclothing_reverse	inverse clothing togo with clothing
+concept:agriculturalproducttoattractinsect	agricultural product to attract insect
+concept:agriculturalproducttoattractinsect_reverse	inverse agricultural product to attract insect
+concept:transportationincity	transportation in city
+concept:transportationincity_reverse	inverse transportation in city
+concept:professionistypeofprofession	profession is type of profession
+concept:professionistypeofprofession_reverse	inverse profession is type of profession
+concept:sportschoolincountry	sport school in country
+concept:sportschoolincountry_reverse	inverse sport school in country
+concept:politicianusholdsoffice	politician us holds office
+concept:politicianusholdsoffice_reverse	inverse politician us holds office
+concept:persongraduatedschool	person graduated school
+concept:persongraduatedschool_reverse	inverse person graduated school
+concept:musicianplaysinstrument	musician plays instrument
+concept:musicianplaysinstrument_reverse	inverse musician plays instrument
+concept:weaponmadeincountry	weapon made in country
+concept:weaponmadeincountry_reverse	inverse weapon made in country
+concept:drughassideeffect	drug has side effect
+concept:drughassideeffect_reverse	inverse drug has side effect
+concept:sporthassportsteamposition	sport has sports team position
+concept:sporthassportsteamposition_reverse	inverse sport has sports team position
+concept:fishservedwithfood	fish served with food
+concept:fishservedwithfood_reverse	inverse fish served with food
+concept:politicianrepresentslocation	politician represents location
+concept:politicianrepresentslocation_reverse	inverse politician represents location
+concept:teamplayssport	team plays sport
+concept:teamplayssport_reverse	inverse team plays sport
+concept:agriculturalproductcomingfromvertebrate	agricultural product coming from vertebrate
+concept:agriculturalproductcomingfromvertebrate_reverse	inverse agricultural product coming from vertebrate
+concept:buildingfeaturemadefrombuildingmaterial	building feature made from building material
+concept:buildingfeaturemadefrombuildingmaterial_reverse	inverse building feature made from building material
+concept:headquarteredin	headquartered in
+concept:headquarteredin_reverse	inverse headquartered in
+concept:citylocatedinstate	city located in state
+concept:citylocatedinstate_reverse	inverse city located in state
+concept:athleteledsportsteam	athlete led sports team
+concept:athleteledsportsteam_reverse	inverse athlete led sports team
+concept:academicfieldsuchasacademicfield	academic field such as academic field
+concept:academicfieldsuchasacademicfield_reverse	inverse academic field such as academic field
+concept:personleadsorganization	person leads organization
+concept:personleadsorganization_reverse	inverse person leads organization
+concept:agriculturalproductgrowinginstateorprovince	agricultural product growing in state or province
+concept:agriculturalproductgrowinginstateorprovince_reverse	inverse agricultural product growing in state or province
+concept:organizationalsoknownas	organization also known as
+concept:organizationalsoknownas_reverse	inverse organization also known as
+concept:ceoof	ceo of
+concept:ceoof_reverse	inverse ceo of
+concept:persongraduatedfromuniversity	person graduated from university
+concept:persongraduatedfromuniversity_reverse	inverse person graduated from university
+concept:fatherofperson	father of person
+concept:fatherofperson_reverse	inverse father of person
+concept:competeswith	competes with
+concept:competeswith_reverse	inverse competes with
+concept:organizationacronymhasname	organization acronym has name
+concept:organizationacronymhasname_reverse	inverse organization acronym has name
+concept:journalistwritesforpublication	journalist writes for publication
+concept:journalistwritesforpublication_reverse	inverse journalist writes for publication
+concept:personbornincity	person born in city
+concept:personbornincity_reverse	inverse person born in city
+concept:languageofuniversity	language of university
+concept:languageofuniversity_reverse	inverse language of university
+concept:specializationof	specialization of
+concept:specializationof_reverse	inverse specialization of
+concept:conceptprerequisiteof	concept prerequisite of
+concept:conceptprerequisiteof_reverse	inverse concept prerequisite of
+concept:politicianusmemberofpoliticalgroup	politician us member of political group
+concept:politicianusmemberofpoliticalgroup_reverse	inverse politician us member of political group
+concept:sportfansincountry	sport fans in country
+concept:sportfansincountry_reverse	inverse sport fans in country
+concept:professionusestool	profession uses tool
+concept:professionusestool_reverse	inverse profession uses tool
+concept:agentbelongstoorganization	agent belongs to organization
+concept:agentbelongstoorganization_reverse	inverse agent belongs to organization
+concept:awardtrophytournamentisthechampionshipgameofthenationalsport	award trophy tournament is the championship game of the national sport
+concept:awardtrophytournamentisthechampionshipgameofthenationalsport_reverse	inverse award trophy tournament is the championship game of the national sport
+concept:animalthatfeedoninsect	animal that feed on insect
+concept:animalthatfeedoninsect_reverse	inverse animal that feed on insect
+concept:hobbiessuchashobbies	hobbies such as hobbies
+concept:hobbiessuchashobbies_reverse	inverse hobbies such as hobbies
+concept:countrylocatedingeopoliticallocation	country located in geopolitical location
+concept:countrylocatedingeopoliticallocation_reverse	inverse country located in geopolitical location
+concept:automobilemakercardealersinstateorprovince	automobile maker car dealers in state or province
+concept:automobilemakercardealersinstateorprovince_reverse	inverse automobile maker car dealers in state or province
+concept:touristattractionsuchastouristattraction	tourist attraction such as tourist attraction
+concept:touristattractionsuchastouristattraction_reverse	inverse tourist attraction such as tourist attraction
+concept:teamplaysincity	team plays in city
+concept:teamplaysincity_reverse	inverse team plays in city
+concept:radiostationincity	radio station in city
+concept:radiostationincity_reverse	inverse radio station in city
+concept:actorstarredinmovie	actor starred in movie
+concept:actorstarredinmovie_reverse	inverse actor starred in movie
+concept:televisionstationincity	television station in city
+concept:televisionstationincity_reverse	inverse television station in city
+concept:plantgrowinginplant	plant growing in plant
+concept:plantgrowinginplant_reverse	inverse plant growing in plant
+concept:personchargedwithcrime	person charged with crime
+concept:personchargedwithcrime_reverse	inverse person charged with crime
+concept:thinghascolor	thing has color
+concept:thinghascolor_reverse	inverse thing has color
+concept:beveragecontainsprotein	beverage contains protein
+concept:beveragecontainsprotein_reverse	inverse beverage contains protein
+concept:personhascitizenship	person has citizenship
+concept:personhascitizenship_reverse	inverse person has citizenship
+concept:istallerthan	is taller than
+concept:istallerthan_reverse	inverse is taller than
+concept:athletewinsawardtrophytournament	athlete wins award trophy tournament
+concept:athletewinsawardtrophytournament_reverse	inverse athlete wins award trophy tournament
+concept:animalsuchasfish	animal such as fish
+concept:animalsuchasfish_reverse	inverse animal such as fish
+concept:politicianholdsoffice	politician holds office
+concept:politicianholdsoffice_reverse	inverse politician holds office
+concept:foodcancausedisease	food can cause disease
+concept:foodcancausedisease_reverse	inverse food can cause disease
+concept:personhasresidenceingeopoliticallocation	person has residence in geopolitical location
+concept:personhasresidenceingeopoliticallocation_reverse	inverse person has residence in geopolitical location
+concept:automobilemakerdealersincity	automobile maker dealers in city
+concept:automobilemakerdealersincity_reverse	inverse automobile maker dealers in city
+concept:coachwontrophy	coach won trophy
+concept:coachwontrophy_reverse	inverse coach won trophy
+concept:parentofperson	parent of person
+concept:parentofperson_reverse	inverse parent of person
+concept:companyalsoknownas	company also known as
+concept:companyalsoknownas_reverse	inverse company also known as
+concept:sportusesstadium	sport uses stadium
+concept:sportusesstadium_reverse	inverse sport uses stadium
+concept:riveremptiesintoriver	river empties into river
+concept:riveremptiesintoriver_reverse	inverse river empties into river
+concept:buildinglocatedincity	building located in city
+concept:buildinglocatedincity_reverse	inverse building located in city
+concept:coachesteam	coaches team
+concept:coachesteam_reverse	inverse coaches team
+concept:animaleatvegetable	animal eat vegetable
+concept:animaleatvegetable_reverse	inverse animal eat vegetable
+concept:newspaperincity	newspaper in city
+concept:newspaperincity_reverse	inverse newspaper in city
+concept:hassibling	has sibling
+concept:hassibling_reverse	inverse has sibling
+concept:arterycalledartery	artery called artery
+concept:arterycalledartery_reverse	inverse artery called artery
+concept:attractionofcity	attraction of city
+concept:attractionofcity_reverse	inverse attraction of city
+concept:stateorprovinceisborderedbystateorprovince	state or province is bordered by state or province
+concept:stateorprovinceisborderedbystateorprovince_reverse	inverse state or province is bordered by state or province
+concept:automobilemakerdealersincountry	automobile maker dealers in country
+concept:automobilemakerdealersincountry_reverse	inverse automobile maker dealers in country
+concept:hashusband	has husband
+concept:hashusband_reverse	inverse has husband
+concept:countrycurrency	country currency
+concept:countrycurrency_reverse	inverse country currency
+concept:citylocatedincountry	city located in country
+concept:citylocatedincountry_reverse	inverse city located in country
+concept:agriculturalproductcontainchemical	agricultural product contain chemical
+concept:agriculturalproductcontainchemical_reverse	inverse agricultural product contain chemical
+concept:objectpartofobject	object part of object
+concept:objectpartofobject_reverse	inverse object part of object
+concept:teamalsoknownas	team also known as
+concept:teamalsoknownas_reverse	inverse team also known as
+concept:hasofficeincountry	has office in country
+concept:hasofficeincountry_reverse	inverse has office in country
+concept:thinghasshape	thing has shape
+concept:thinghasshape_reverse	inverse thing has shape
+concept:agriculturalproductcamefromcountry	agricultural product came from country
+concept:agriculturalproductcamefromcountry_reverse	inverse agricultural product came from country
+concept:sportsgameteam	sports game team
+concept:sportsgameteam_reverse	inverse sports game team
+concept:acquired	acquired
+concept:acquired_reverse	inverse acquired
+concept:academicfieldconcernssubject	academic field concerns subject
+concept:academicfieldconcernssubject_reverse	inverse academic field concerns subject
+concept:athleteplayssportsteamposition	athlete plays sports team position
+concept:athleteplayssportsteamposition_reverse	inverse athlete plays sports team position
+concept:sportsgamewinner	sports game winner
+concept:sportsgamewinner_reverse	inverse sports game winner
+concept:arthropodcalledarthropod	arthropod called arthropod
+concept:arthropodcalledarthropod_reverse	inverse arthropod called arthropod
+concept:objectfoundinscene	object found in scene
+concept:objectfoundinscene_reverse	inverse object found in scene
+concept:lakeinstate	lake in state
+concept:lakeinstate_reverse	inverse lake in state
+concept:ismultipleof	is multiple of
+concept:ismultipleof_reverse	inverse is multiple of
+concept:airportincity	airport in city
+concept:airportincity_reverse	inverse airport in city
+concept:personmovedtostateorprovince	person moved to state or province
+concept:personmovedtostateorprovince_reverse	inverse person moved to state or province
+concept:sportsgamesport	sports games port
+concept:sportsgamesport_reverse	inverse sports games port
+concept:agriculturalproductgrowninlandscapefeatures	agricultural product grown in landscape features
+concept:agriculturalproductgrowninlandscapefeatures_reverse	inverse agricultural product grown in landscape features
+concept:fooddecreasestheriskofdisease	food decreases the risk of disease
+concept:fooddecreasestheriskofdisease_reverse	inverse food decreases the risk of disease
+concept:bankboughtbank	bank bought bank
+concept:bankboughtbank_reverse	inverse bank bought bank
+concept:citycapitalofcountry	city capital of country
+concept:citycapitalofcountry_reverse	inverse city capital of country
+concept:mountaininstate	mountain in state
+concept:mountaininstate_reverse	inverse mountain in state
+concept:coachesinleague	coaches in league
+concept:coachesinleague_reverse	inverse coaches in league
+concept:teamhomestadium	team home stadium
+concept:teamhomestadium_reverse	inverse team home stadium
+concept:athleteinjuredhisbodypart	athlete injured his body part
+concept:athleteinjuredhisbodypart_reverse	inverse athlete injured his body part
+concept:personleadsgeopoliticalorganization	person leads geopolitical organization
+concept:personleadsgeopoliticalorganization_reverse	inverse person leads geopolitical organization
+concept:invertebratefeedonfood	invertebrate feed on food
+concept:invertebratefeedonfood_reverse	inverse invertebrate feed on food
+concept:cityalsoknownas	city also known as
+concept:cityalsoknownas_reverse	inverse city also known as
+concept:plantrepresentemotion	plant represent emotion
+concept:plantrepresentemotion_reverse	inverse plant represent emotion
+concept:motherofperson	mother of person
+concept:motherofperson_reverse	inverse mother of person
