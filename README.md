@@ -4,7 +4,7 @@
 - [x] [CQD-Beam](https://arxiv.org/abs/2011.03459)
 - [x] [QTO](https://proceedings.mlr.press/v202/bai23b.html)
 
-Unzip ``CQD.zip`` and ``QTO.zip`` to the root. See ``CQD\README.md`` and ``QTO\README.md`` for details.
+See ``CQD\README.md`` and ``QTO\README.md`` for details.
 
 ## 2. QIPP + End2End KGQE Model
 **KGQE Models**
