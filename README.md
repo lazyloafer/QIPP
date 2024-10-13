@@ -1,12 +1,12 @@
 # QIPP
-##1. QIPP + Iterative KGQE Models
+## 1. QIPP + Iterative KGQE Models
 **KGQE Models**
 - [x] [CQD-Beam](https://arxiv.org/abs/2011.03459)
 - [x] [QTO](https://proceedings.mlr.press/v202/bai23b.html)
 
 Unzip ``CQD.zip`` and ``QTO.zip`` to the root. See ``CQD\README.md`` and ``QTO\README.md`` for details.
 
-##2. QIPP + End2End KGQE Model
+## 2. QIPP + End2End KGQE Model
 **KGQE Models**
 - [x] [GQE](https://arxiv.org/abs/1806.01445)
 - [x] [Q2B](https://arxiv.org/abs/2002.05969)
@@ -15,7 +15,7 @@ Unzip ``CQD.zip`` and ``QTO.zip`` to the root. See ``CQD\README.md`` and ``QTO\R
 - [x] [MLP2Vec](https://arxiv.org/pdf/2209.14464)
 - [x] [FuzzQE](https://ojs.aaai.org/index.php/AAAI/article/view/20310)
 
-###2.1. Datasets
+### 2.1. Datasets
 
 Download `FB15k-237-betae`, `FB15k-betae`, and `NELL-betae` from [BetaE](https://arxiv.org/abs/2010.11465).
 
@@ -31,7 +31,7 @@ data/
     └── train + valid + test data
 ```
 
-###2.2. Pre-trained Language Model
+### 2.2. Pre-trained Language Model
 
 Download the Pre-trained BERT from [Hugging Face](https://huggingface.co/google-bert/bert-base-cased/tree/main)
 
@@ -39,7 +39,7 @@ Put Pre-trained BERT files into ``PLM/bert-base-cased/``
 
 Set `"num_hidden_layers"` in ``PLM/bert-base-cased/config.json`` to `1`
 
-###2.3. Training and Testing
+### 2.3. Training and Testing
 
 Train QIPP with GQE:
 
