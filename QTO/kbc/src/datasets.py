@@ -156,7 +156,7 @@ class Dataset(object):
         self.to_skip = {}
         lhs = {}
         rhs = {}
-        for file_id in range(10):
+        for file_id in range(20):
             with open(str(self.root / f'to_skip_{file_id}.pickle'), 'rb') as inp_f:
                 self.to_skip_chunk = pickle.load(inp_f)
             lhs.update(self.to_skip_chunk['lhs'])
